@@ -1,0 +1,16 @@
+.. index:: mtx_rhs.py
+
+.. _openaerostruct.aerodynamics.mtx_rhs.py:
+
+mtx_rhs.py
+----------
+
+.. automodule:: openaerostruct.aerodynamics.mtx_rhs
+   :members:
+   :undoc-members:
+   :special-members: __init__, __contains__, __iter__, __setitem__, __getitem__
+   :show-inheritance:
+   :inherited-members:
+
+.. toctree::
+   :maxdepth: 1

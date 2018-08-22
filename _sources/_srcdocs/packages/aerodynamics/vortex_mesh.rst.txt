@@ -1,0 +1,16 @@
+.. index:: vortex_mesh.py
+
+.. _openaerostruct.aerodynamics.vortex_mesh.py:
+
+vortex_mesh.py
+--------------
+
+.. automodule:: openaerostruct.aerodynamics.vortex_mesh
+   :members:
+   :undoc-members:
+   :special-members: __init__, __contains__, __iter__, __setitem__, __getitem__
+   :show-inheritance:
+   :inherited-members:
+
+.. toctree::
+   :maxdepth: 1

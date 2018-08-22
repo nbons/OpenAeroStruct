@@ -1,0 +1,16 @@
+.. index:: wave_drag.py
+
+.. _openaerostruct.aerodynamics.wave_drag.py:
+
+wave_drag.py
+------------
+
+.. automodule:: openaerostruct.aerodynamics.wave_drag
+   :members:
+   :undoc-members:
+   :special-members: __init__, __contains__, __iter__, __setitem__, __getitem__
+   :show-inheritance:
+   :inherited-members:
+
+.. toctree::
+   :maxdepth: 1

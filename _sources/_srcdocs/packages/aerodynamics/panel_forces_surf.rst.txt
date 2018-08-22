@@ -1,0 +1,16 @@
+.. index:: panel_forces_surf.py
+
+.. _openaerostruct.aerodynamics.panel_forces_surf.py:
+
+panel_forces_surf.py
+--------------------
+
+.. automodule:: openaerostruct.aerodynamics.panel_forces_surf
+   :members:
+   :undoc-members:
+   :special-members: __init__, __contains__, __iter__, __setitem__, __getitem__
+   :show-inheritance:
+   :inherited-members:
+
+.. toctree::
+   :maxdepth: 1
